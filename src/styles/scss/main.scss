@@ -456,9 +456,9 @@ header.header {
 			background: url('../../src/assets/img/43.jpg') center center no-repeat;
 			background-size: cover;
 			height: 100%;
-		}
-	}
+		}		
 }
+
 .contact {
 	.row {
 		.right {
@@ -472,6 +472,19 @@ header.header {
 			}
 		}
 	}
+	.row {
+		.right2{
+			background: url('../../src/assets/img/sorbeet.jpg') center center no-repeat;
+			background-size: cover;
+			height: 100%;
+		}
+	}
+	.left2 {
+		background-color: #f0f0f0;
+			.content {
+				font-size: 13px;
+			}
+		}
 }
 .for-visitors,
 .for-expositors {
