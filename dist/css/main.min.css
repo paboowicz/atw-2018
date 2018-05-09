@@ -5,7 +5,82 @@ body {
   padding: 0;
   font-family: 'Maven Pro', sans-serif;
 }
+/*==============
+	12. Sponsors
+====================*/
 
+.sponsors-list {
+	margin:0 auto;
+	overflow:hidden;
+	text-align:center;
+}
+.sponsors-list > ul {
+	margin:0 auto;
+	padding:0;
+}
+.sponsors-list li {
+  display: inline-block;
+  list-style: outside none none;
+  margin-bottom: 48px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+/*======================
+	Sponsors-Styles
+=============================*/
+#sponsors-slider .sponsors_logo {
+	background:#fff;
+	outline: 1px dashed rgba(255, 255, 255, 0.3);
+	outline-offset:4px;
+	margin:5px auto 12px;
+	height:150px;
+	display:table;
+	width:90%;
+	padding: 20px;
+}
+#sponsors {
+	background-image: url(../images/2b.png);	
+	background-repeat: repeat-y|repeat-y;
+
+}
+
+#sponsors-slider .sponsors_logo a {
+	display:table-cell;
+	vertical-align:middle;
+}
+#sponsors-slider .sponsors_logo img {
+	max-width:100%;
+}
+.sponsors_3 .sponsors-list li {
+	background:#fff;
+	outline: 1px dashed rgba(0, 0, 0, 0.5);
+	outline-offset:4px;
+	margin:5px 10px 15px;
+	padding: 0px;
+}
+.owl-pagination {
+	width:100%;
+	display:block;
+	margin:auto;
+	text-align:center
+}
+.owl-pagination .owl-page {
+	height:10px;
+	width:10px;
+	background:#929292;
+	border-radius:50%;
+	display:inline-block;
+	margin:25px 5px 0px;
+}
+.owl-pagination .owl-page.active {
+	background:#DE302F;
+	height:16px;
+	width:16px;
+	border-radius:50%;
+	position:relative;
+	top:2px;
+}
 a {
   text-decoration: none;
   transition: .2s all;
