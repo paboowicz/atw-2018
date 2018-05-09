@@ -673,8 +673,8 @@ header.header nav ul li a:hover {
 }
 
 .assosiates .row img {
-  -webkit-filter: grayscale(100%);
-          filter: grayscale(100%);
+  -webkit-filter: grayscale(0);
+          filter: grayscale(0);
 }
 
 .assosiates .row img:hover {
