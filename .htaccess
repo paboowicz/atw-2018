@@ -1,4 +1,3 @@
-# Powered by Zyro.com
 ErrorDocument 401 "Unauthorized"
 ErrorDocument 403 "Forbidden"
 RewriteEngine On
