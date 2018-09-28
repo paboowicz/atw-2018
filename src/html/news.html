@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-	<title>Sawa Expo</title>
+	<title> 8-9 czerwca 2019 III Agro Targi Wschód </title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta charset="UTF-8">
