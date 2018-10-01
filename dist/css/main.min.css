@@ -2271,6 +2271,9 @@ footer .copyrights p:nth-child(2) a {
   max-width: 900px;
   margin: 0 auto;
 }
+.forExhibitors-drive .mapka {
+  width: 100%;
+}
 
 .forExhibitors-drive .row .image-accommodation {
   margin: 0 auto;
