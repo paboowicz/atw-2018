@@ -540,7 +540,7 @@ header.header nav ul li a:hover {
   border: 2px solid #ffe634;
   color: #ffe634;
   background: transparent;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: 500;
   border-radius: 25px;
   transition: .5s all;
