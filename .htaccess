@@ -1,11 +1,9 @@
-# Powered by Zyro.com
-ErrorDocument 401 "Unauthorized"
-ErrorDocument 403 "Forbidden"
-RewriteEngine On
-RewriteBase /
-#### PERSISTENT CONTENT ####
-DirectoryIndex index.php index.cgi index.html
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ zyro/$1 [L,QSA]
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
 
+RewriteEngine on
+RewriteRule agro-targi-wschod index.html
+RewriteRule kontakt /src/html/contact.html
