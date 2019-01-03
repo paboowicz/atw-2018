@@ -6,4 +6,4 @@ Deny from all
 
 RewriteEngine on
 RewriteRule agro-targi-wschod index.html
-RewriteRule kontakt /src/html/contact.html
+
