@@ -1012,7 +1012,7 @@ header.header nav ul li a:hover {
 }
 
 footer {
-  min-height: 400px;
+  /*min-height: 400px;*/
   background-color: #154c98;
   padding: 60px 0;
 }
