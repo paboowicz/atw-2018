@@ -854,7 +854,8 @@ header.header nav ul li a:hover {
 
 .for-visitors .row,
 .for-expositors .row {
-  height: 590px;
+  height: 350px;
+  margin-bottom: 15px;
   display: -webkit-box;
   display: flex;
   -webkit-box-align: center;
@@ -997,7 +998,7 @@ header.header nav ul li a:hover {
 }
 
 .assosiates .row {
-  margin: 100px 0;
+  margin: 50px 0;
 }
 
 .assosiates .row img {
