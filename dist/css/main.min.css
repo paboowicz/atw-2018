@@ -3623,6 +3623,12 @@ footer .copyrights p:nth-child(2) a {
   }
 }
 
+.hr-wystawcy{
+  background: linear-gradient(-90deg, #6fb52b, #afca1e);
+  height: 5px;
+  width: 90%;
+}
+
 /* Custom, iPhone Retina */
 
 /*# sourceMappingURL=main.min.css.map */
