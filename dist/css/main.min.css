@@ -1777,12 +1777,12 @@ footer .copyrights p:nth-child(2) a {
 
 .forExhibitors .row:first-child,
 .forVisitors .row:first-child {
-  margin-top: 100px;
+  margin-top: 0px;
 }
 
 .forExhibitors .row:last-child,
 .forVisitors .row:last-child {
-  margin-bottom: 100px;
+  margin-bottom: 0px;
 }
 
 .forExhibitors .row .info-banner,
@@ -1790,7 +1790,7 @@ footer .copyrights p:nth-child(2) a {
   text-align: center;
   max-width: 480px;
   margin: 0 auto;
-  padding: 60px;
+  padding: 20px;
   min-height: 450px;
 }
 
@@ -1860,14 +1860,14 @@ footer .copyrights p:nth-child(2) a {
 
 .forExhibitors .row .info-banner._1,
 .forVisitors .row .info-banner._1 {
-  border-bottom: 1px solid #ededed;
-  border-right: 1px solid #ededed;
+  border-bottom: 0px solid #ededed;
+  border-right: 0px solid #ededed;
 }
 
 .forExhibitors .row .info-banner._4,
 .forVisitors .row .info-banner._4 {
-  border-top: 1px solid #ededed;
-  border-left: 1px solid #ededed;
+  border-top: 0px solid #ededed;
+  border-left: 0px solid #ededed;
 }
 
 .forExhibitors .row .info-banner img,
@@ -2153,8 +2153,8 @@ footer .copyrights p:nth-child(2) a {
   width: 100%;
   margin: 0 auto;
   color: #000;
-  margin-top: 100px;
-  margin-bottom: 80px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .forExhibitors-application .text-box p {
@@ -3625,8 +3625,15 @@ footer .copyrights p:nth-child(2) a {
 
 .hr-wystawcy{
   background: linear-gradient(-90deg, #6fb52b, #afca1e);
-  height: 5px;
+  height: 2px;
   width: 90%;
+}
+
+.map-dojazd {
+  display: block;
+  margin-top: : 50px;
+  margin-bottom: 50px;
+  height: 600px;
 }
 
 /* Custom, iPhone Retina */
