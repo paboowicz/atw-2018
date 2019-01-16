@@ -304,9 +304,9 @@ body {
 .sponsors_3 .sponsors-list li {
 	background:#fff;
 	outline: 1px dashed rgba(0, 0, 0, 0.5);
-	outline-offset:4px;
-	margin:5px 10px 15px;
-	padding: 0px;
+	outline-offset:25px;
+	margin:40px 40px 40px;
+	padding: 5px;
 }
 .owl-pagination {
 	width:100%;
