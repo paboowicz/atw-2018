@@ -492,7 +492,7 @@ header.header nav ul li a:hover {
 }
 
 .main-jumbotron {
-  height: 68vh;
+  height: 48vh;
   background: transparent url("../../src/assets/img/gal1/z11.jpg") 50% 50% no-repeat;
   overflow: hidden;
   padding-top: 0;
