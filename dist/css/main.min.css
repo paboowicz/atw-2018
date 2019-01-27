@@ -468,7 +468,7 @@ header.header nav ul li a:hover {
 }
 
 .jumbotron {
-  height: 350px;
+  height: 250px;
   margin-bottom: 50px;
   background: transparent url("../../src/assets/img/jumbotron.png") left top no-repeat;
   background-size: cover;
