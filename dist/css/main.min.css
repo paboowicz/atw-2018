@@ -2850,7 +2850,7 @@ footer .copyrights p:nth-child(2) a {
 /* Large Devices, Wide Screens */
 @media screen and (min-width: 1600px) {
   .main-jumbotron2 .container {
-    min-width: 1300px;
+    min-width: 1400px;
     padding-left: calc((100vw - 1300px) / 2);
   }
 }
