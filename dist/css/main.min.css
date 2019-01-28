@@ -3647,6 +3647,12 @@ footer .copyrights p:nth-child(2) a {
   font-size: 22px;
 }
 
+.h-konie{
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+}
+
 /* Custom, iPhone Retina */
 
 /*# sourceMappingURL=main.min.css.map */
