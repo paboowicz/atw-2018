@@ -3652,7 +3652,11 @@ footer .copyrights p:nth-child(2) a {
   
   font-weight: bold;
 }
-
+.h-program{
+  text-align: center;
+  margin-bottom: 25px;
+  font-weight: bold;
+}
 /* Custom, iPhone Retina */
 
 /*# sourceMappingURL=main.min.css.map */
