@@ -1180,7 +1180,7 @@ footer .copyrights p:nth-child(2) a {
   font-weight: bold;
 }
 
-.descriptionPRzText li{
+.descriptionPRzText {
   font-size: 16px;
 }
 
